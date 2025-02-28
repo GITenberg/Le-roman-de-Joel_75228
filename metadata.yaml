@@ -1,5 +1,8 @@
 _repo: Le-roman-de-Joel_75228
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75228-h/images/cover.jpg
 creator:
   author:
     agent_name: Maël, Pierre
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54195
     wikipedia: https://fr.wikipedia.org/wiki/Pierre_Ma%C3%ABl
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75228#Le-roman-de-Joel
 gutenberg_issued: '2025-01-27'
 gutenberg_type: Text
 identifiers:
